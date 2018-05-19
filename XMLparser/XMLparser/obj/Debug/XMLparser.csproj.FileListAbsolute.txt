@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\XMLparser\XMLparser\bin\Debug\XMLparser.exe.config
+C:\Users\HP\source\repos\XMLparser\XMLparser\bin\Debug\XMLparser.exe
+C:\Users\HP\source\repos\XMLparser\XMLparser\bin\Debug\XMLparser.pdb
+C:\Users\HP\source\repos\XMLparser\XMLparser\obj\Debug\XMLparser.csprojResolveAssemblyReference.cache
+C:\Users\HP\source\repos\XMLparser\XMLparser\obj\Debug\XMLparser.Form1.resources
+C:\Users\HP\source\repos\XMLparser\XMLparser\obj\Debug\XMLparser.Properties.Resources.resources
+C:\Users\HP\source\repos\XMLparser\XMLparser\obj\Debug\XMLparser.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\XMLparser\XMLparser\obj\Debug\XMLparser.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\XMLparser\XMLparser\obj\Debug\XMLparser.exe
+C:\Users\HP\source\repos\XMLparser\XMLparser\obj\Debug\XMLparser.pdb
